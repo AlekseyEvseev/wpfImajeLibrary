@@ -9,6 +9,7 @@ namespace wpfImajeLibrary
 {
   public  class Product
     {
+
        public string Articul { get; set; }
        public string Name { get; set; }
         public Image img;
